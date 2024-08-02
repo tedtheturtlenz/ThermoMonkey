@@ -10,6 +10,10 @@ This is a room temperature thermometer using the following equipment:
 * Various Fasteners
 
 
-Code compiled in Arduino IDE 2.3.2
-3D Models made in Solidworks, cut on 4.75mm MDF
-PCB Designed in Eagle CAD, made by JLC PCB
+Code compiled in Arduino IDE 2.3.2.
+
+
+3D Models made in Solidworks, cut on 4.75mm MDF.
+
+
+PCB Designed in Eagle CAD, made by JLC PCB.
