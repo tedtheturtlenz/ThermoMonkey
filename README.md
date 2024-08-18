@@ -17,3 +17,4 @@ Code compiled in Arduino IDE 2.3.2.
 
 
 PCB Designed in Eagle CAD, made by JLC PCB.
+![ThermoMonkey Picture](https://github.com/user-attachments/assets/4f946ad0-bc40-4fc7-bdb1-288add75c632)
